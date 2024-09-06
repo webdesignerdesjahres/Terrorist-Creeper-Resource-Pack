@@ -14,9 +14,9 @@ This project is licensed under the [MIT](https://github.com/TheBillyIsMe/Terrori
 
 ## Contributors
 
-[TheBillyIsMe](https://github.com/TheBillyIsMe): Textures
-[redact3dd](https://github.com/redact3dd): Fixed icon
-[webdesignerdesjahres](https://github.com/webdesignerdesjahres): Updates to Java Edition 1.21.1, integration of sounds
+[TheBillyIsMe](https://github.com/TheBillyIsMe): Textures;<br>
+[redact3dd](https://github.com/redact3dd): Fixed icon, Updates to Java Edition 1.21.1;<br>
+[webdesignerdesjahres](https://github.com/webdesignerdesjahres): Updates to Java Edition 1.21.1, integration of sounds;<br>
 [Runnining with Scissors](https://runningwithscissors.com/): Sound files from "Postal 2" (please don't sue, I don't have any money)
 
 ## Issues
